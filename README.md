@@ -1,2 +1,2 @@
 # Hi I'm Richard
-I'm currently a 4th year computer science at UC Irvine. See my pinned repositories to view my best work! Also, visit my personal website: http://richardmeng.com
+I'm a recent UCI graduate with a Bachelor's in Computer Science. See my pinned repositories to view my best work!
